@@ -1,0 +1,2 @@
+2017-08-17 17:18:47,318 [Thread-6] INFO  org.eclipse.jetty.util.log - Logging initialized @67693ms
+2017-08-17 17:18:57,226 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.

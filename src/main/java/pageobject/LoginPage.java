@@ -15,6 +15,8 @@ public class LoginPage {
 	By forgotpwd=By.xpath(".//*[contains(text(),'Forgot Password?')]");
 	By createacc= By.xpath(".//*[contains(text(),'Create an Account')]");
 	
+	By invalidinput=By.xpath(".//*[@class='alert alert-danger']");
+	
 	public LoginPage(WebDriver driver)
 	{
 		PageFactory.initElements(driver, this);
@@ -46,5 +48,9 @@ public class LoginPage {
 	{
 		return driver.findElement(createacc);
 		
+	}
+	
+	public WebElement geterrormessage(){
+		return driver.findElement(invalidinput);
 	}
 }

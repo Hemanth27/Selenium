@@ -1,0 +1,8 @@
+15:48:16.974 [main] INFO  resources.BaseClass - Valid user
+15:57:27.666 [main] INFO  resources.BaseClass - Valid user
+15:57:40.099 [main] INFO  resources.BaseClass - Driver is Initialized
+15:57:51.415 [main] INFO  resources.BaseClass - Navigated to Home Page
+15:57:51.470 [main] INFO  resources.BaseClass - Validated the title
+15:57:51.489 [main] INFO  resources.BaseClass - Navigation is Displayed
+16:38:33.613 [main] INFO  resources.BaseClass - Valid user
+16:38:44.140 [main] INFO  resources.BaseClass - Driver is Initialized
